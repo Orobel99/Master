@@ -94,6 +94,7 @@ PHONE_TYPE	text	 	TIPO DE TELEFONO
 ### Notas
 
 cr_customer_tables archivo para la creación de tablas de Clientes
+
 Consultas_Customers archivo que contiene consultas a tablas de clientes
 
 
